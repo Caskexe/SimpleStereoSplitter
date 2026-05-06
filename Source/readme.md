@@ -5,4 +5,5 @@ Requirements:
    mp3/ogg/flac
 
 Compiling into an executable:
+
     pyinstaller --onefile --windowed --icon=icon.ico --add-data "icon.ico;." SimpleStereoSplitter.py
