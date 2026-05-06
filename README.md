@@ -1,17 +1,18 @@
 # SimpleStereoSplitter
 SimpleStereoSplitter is a python-based application with a GUI that splits stereo audio files into LEFT and RIGHT.
 
-
 <img width="1000" height="650" alt="Diagram" src="https://github.com/user-attachments/assets/6f955412-8e2d-4c79-965f-339217bb6632" />
 
-**Features:**
+
+
+## Features
 1.  Drag-and-drop support for multiple audio files.
 2.  Drop-down to select suffix style (_L/_R, .L/.R, LEFT/RIGHT,/Left/Right [L]/[R]).
 3.  Splits stereo audio into left/right mono files.
 4.  Handles common audio formats (wav, mp3, flac, ogg).
 5.  Displays warnings if the file is not stereo.
 
-⚡🛠 Requirements:
+### ⚡🛠 Requirements:
 ffmpeg must be installed for pydub to handle formats like mp3/ogg/flac - [Download ffmpeg](https://ffmpeg.org/download.html) and ensure it’s in your system PATH.
 
 ## Preview
