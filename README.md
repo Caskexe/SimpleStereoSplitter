@@ -1,6 +1,9 @@
 # SimpleStereoSplitter
 SimpleStereoSplitter is a python-based application with a GUI that splits stereo audio files into LEFT and RIGHT.
 
+<img width="982" height="709" alt="in-action" src="https://github.com/user-attachments/assets/56b0fa34-7823-4c6e-9f0b-cadd82c8c49c" />
+
+
 **Features:**
 1.  Drag-and-drop support for multiple audio files.
 2.  Drop-down to select suffix style (_L/_R, .L/.R, LEFT/RIGHT,/Left/Right [L]/[R]).
