@@ -8,8 +8,8 @@ SimpleStereoSplitter is a python-based application with a GUI that splits stereo
 4.  Handles common audio formats (wav, mp3, flac, ogg).
 5.  Displays warnings if the file is not stereo.
 
-ffmpeg must be installed for pydub to handle formats like mp3/ogg/flac.
--   [Download ffmpeg](https://ffmpeg.org/download.html) and ensure it’s in your system PATH.
+⚡🛠 Requirements:
+ffmpeg must be installed for pydub to handle formats like mp3/ogg/flac - [Download ffmpeg](https://ffmpeg.org/download.html) and ensure it’s in your system PATH.
 
 _____ 
 ### Support Me? <3
@@ -22,5 +22,3 @@ _____
 **Litecoin:** MLopHqV7ZBXW67ey4DPMhGWGa3pGan5ZSJ
 
 **Bitcoin:** 3GaR1skLQapxSvaCSMaJNvQr9QD3rbp1AR
-
-
